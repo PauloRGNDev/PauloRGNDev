@@ -22,7 +22,8 @@ jobs:
         run: |
           git config --local user.email "actions@github.com"
           git config --local user.name "GitHub Actions"
+          git checkout output  # Muda para a branch de saída
           git add dist/snake.svg
           git commit -m "Generate Snake animation"
-          git push
+          git push origin output
         continue-on-error: true
