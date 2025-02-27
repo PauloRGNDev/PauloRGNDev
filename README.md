@@ -30,13 +30,12 @@
 
 ###
 
-<p align="left">Gosto de estudar programação web em um geral, estudando desde o frontend, design, backend e até o deploy, espero ainda fazer muitos bons projetos :D</p>
+<p align="left">Gosto de estudar programação web em um geral, estudando desde o frontend, o design, o backend e até o deploy, espero ainda fazer muitos bons projetos :D</p>
 
 ###
 
 <br clear="both">
 
-<img src="https://github.com/PauloRGNDev/PauloRGNDev/blob/output/dist/snake.svg" alt="Snake animation"/>
-
+<img src="https://raw.githubusercontent.com/PauloRGNDev/PauloRGNDev/output/snake.svg" alt="Snake animation" />
 
 ###
